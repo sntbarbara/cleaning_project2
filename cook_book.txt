@@ -1,0 +1,28 @@
+==================================================================
+## Tidy Data based in Human Activity Recognition Using Smartphones Dataset Version 1.0
+==================================================================
+* Author: Ignacio Santabárbara
+
+## Study design
+==================================================================
+* The Dataset it is based on a study made by: 
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+Smartlab - Non Linear Complex Systems Laboratory
+DITEN - Università degli Studi di Genova.
+Via Opera Pia 11A, I-16145, Genoa, Italy.
+activityrecognition@smartlab.ws
+www.smartlab.ws
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+* It has been done for Coursera course:
+Getting and Cleaning Data by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD
+
+## For each record it is provided:
+======================================
+* Activity label
+* An identifier of the subject who carried out the experiment.
+* A 66-mean and standard deviation features vector with time and frequency domain variables. 
+
+## The dataset includes the following files:
+=========================================
+* 'tidy_UCI_HAR_Dataset.txt'
